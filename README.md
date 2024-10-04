@@ -4,7 +4,7 @@ Simple notebooks to provide an introduction to Terrain, the CyVerse Discovery En
 
 To run the introductory notebook at CyVerse: <a href="https://de.cyverse.org/apps/de/aee781f0-81ca-11ef-8ce9-008cfa5ae621/launch?saved-launch-id=334a09de-0252-4790-a849-f07173de0012" target="_blank" rel="noopener noreferrer"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
 
-To run the automation examples notebook at CyVerse: <a href="https://de.cyverse.org/apps/de/d61d9a26-e921-11e9-8fe0-008cfa5ae621/launch?quick-launch-id=d6867085-607a-455b-b889-995cbe17266f" target="_blank" rel="noopener noreferrer"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+To run the automation examples notebook at CyVerse: <a href="https://de.cyverse.org/apps/de/aee781f0-81ca-11ef-8ce9-008cfa5ae621/launch?saved-launch-id=a253ce94-5acf-421b-8471-e572a92e2456" target="_blank" rel="noopener noreferrer"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
 
 Resources:
 
